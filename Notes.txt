@@ -1,0 +1,8 @@
+Push folder to github
+- git add .
+- git commit -m "commit messgae"
+- git push origin main 
+
+Create virtual environment
+conda create -n textS
+conda activate textS
